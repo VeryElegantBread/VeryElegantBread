@@ -1,5 +1,5 @@
 ## Hello. I am VeryElegantBread.
-I think rust is pretty cool but.
+I think rust is pretty cool.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VeryElegantBread&theme=dark)
 
